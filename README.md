@@ -1,2 +1,2 @@
 # Python-Notebooks-for-Learning
-Random Python Notebooks for Learning Purposes
+Comprehensive Python Notebooks for Learning Purposes
